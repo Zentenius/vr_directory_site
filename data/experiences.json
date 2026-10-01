@@ -1,0 +1,4651 @@
+{
+  "metadata": {
+    "title": "Combined VR/WebXR Experiences Database",
+    "description": "Curated collection of VR and WebXR experiences from WebVR Directory and Itch.io",
+    "total_experiences": 236,
+    "sources": {
+      "webvr_directory": 20,
+      "itch_io": 216
+    },
+    "created_at": "2025-10-03T06:57:23.994912",
+    "version": "1.0",
+    "formats_supported": [
+      "WebVR",
+      "WebXR",
+      "A-Frame",
+      "Three.js",
+      "Unity WebGL"
+    ],
+    "platforms": [
+      "Web Browser",
+      "VR Headsets",
+      "Mobile VR",
+      "Desktop",
+      "Android",
+      "iOS"
+    ]
+  },
+  "experiences": [
+    {
+      "title": "Moon Rider",
+      "author": "Supermedium",
+      "description": "Surf the musical road among the stars, moon, and lights.",
+      "url": "https://moonrider.xyz",
+      "image_url": "https://supermedium.com/superassets/site/moonrider.jpg",
+      "tags": [
+        "music",
+        "game"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Monster or Friend",
+      "author": "Codercat (@kirill @sneha)",
+      "description": "You are followed by a procedurally animated sea space creature. A visual and audio experience.",
+      "url": "https://codercat.tk/monster-or-friend/",
+      "image_url": "https://supermedium.com/superassets/site/monsterorfriend.jpg",
+      "tags": [
+        "art",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Blue Cyber: Episode 1",
+      "author": "@bluecybervr",
+      "description": "You are charged to protect the galaxy with powers given from the artifact, Blue Cyber. A science fantasy VR story.",
+      "url": "https://www.bluecybervr.com/episode01/",
+      "image_url": "https://supermedium.com/superassets/site/bluecyber.jpg",
+      "tags": [
+        "space",
+        "adventure",
+        "game"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Barista Express",
+      "author": "Construct Arcade",
+      "description": "Virtually be a barista in your own cafe.",
+      "url": "https://constructarca.de/construct-arcade/game/barista-express/game/",
+      "image_url": "https://supermedium.com/superassets/site/baristaexpress.jpg",
+      "tags": [
+        "simulation",
+        "game"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Realms VR",
+      "author": "Daniel Esteban (@danigatunes)",
+      "description": "A recursive VR experience.",
+      "url": "https://realmsvr.gatunes.com",
+      "image_url": "https://supermedium.com/superassets/site/realmsvr.jpg",
+      "tags": [
+        "art",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Vuppets",
+      "author": "Jorge Fuentes (@jorgefuentesnet)",
+      "description": "Put on a show with these cute animated hand puppets.",
+      "url": "https://www.jorgefuentes.net/projects/vuppets/vuppets_6DOF/",
+      "image_url": "https://supermedium.com/superassets/site/vuppets.jpg",
+      "tags": [
+        "art",
+        "interactive",
+        "social"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "HalloVReen",
+      "author": "Jorge Fuentes (@jorgefuentesnet)",
+      "description": "Gaze upon the citizens of Creepville and see what they're up to. Can you find them all?",
+      "url": "https://www.jorgefuentes.net/projects/halloVReen/",
+      "image_url": "https://supermedium.com/superassets/site/hallovreen.jpg",
+      "tags": [
+        "adventure",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "VRBlocks",
+      "author": "Daniel Esteban (@danigatunes)",
+      "description": "A tranquil multiplayer Minecraft-like sandbox. The sequel to Walking Simulator.",
+      "url": "https://vrblocks.gatunes.com/",
+      "image_url": "https://supermedium.com/superassets/site/vrblocks.jpg",
+      "tags": [
+        "simulation",
+        "game",
+        "social"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "A-Painter",
+      "author": "A-Frame Authors",
+      "description": "Paint in VR! Create a masterpiece with dozens of brushes available. Save your painting and share it with your friends.",
+      "url": "https://aframe.io/a-painter/",
+      "image_url": "https://supermedium.com/superassets/site/apainter.jpg",
+      "tags": [
+        "art",
+        "creative",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Supercraft",
+      "author": "Supermedium",
+      "description": "Build a VR world in minutes! Publish your creation instantly to the Web to share with your friends.",
+      "url": "https://supermedium.com/craft/",
+      "image_url": "https://supermedium.com/superassets/site/supercraft.jpg",
+      "tags": [
+        "creative",
+        "social",
+        "game"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Soundboxing Beta",
+      "author": "Soundboxing + Supermedium",
+      "description": "A VR music kickboxing game with beats created by people. If you feel the urge to dance, you're doing it right!",
+      "url": "https://webvr.soundboxing.co/",
+      "image_url": "https://supermedium.com/superassets/site/soundboxing.jpg",
+      "tags": [
+        "music",
+        "game",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "A-Blast",
+      "author": "A-Frame Authors",
+      "description": "Stay alert as creatures happily fire at your from all angles. Protect yourself with laser pistols. Shoot down projectiles that come at you.",
+      "url": "https://aframe.io/a-blast/",
+      "image_url": "https://supermedium.com/superassets/site/ablast.jpg",
+      "tags": [
+        "game",
+        "interactive",
+        "space"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Musical Forest",
+      "author": "Google Creative Lab",
+      "description": "Join users from around the world in a musical forest. Tap or click a shape to play it. You can add shapes too!",
+      "url": "https://forest.webvrexperiments.com/",
+      "image_url": "https://supermedium.com/superassets/site/musicalforest.jpg",
+      "tags": [
+        "music",
+        "social",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Access Mars",
+      "author": "Google Creative Lab & NASA JPL",
+      "description": "The real surface of Mars from over 200,000 photographs sent back to Earth by the Curiosity rover. Used by NASA JPL scientists.",
+      "url": "https://accessmars.withgoogle.com/",
+      "image_url": "https://supermedium.com/superassets/site/accessmars.jpg",
+      "tags": [
+        "space",
+        "education",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "A Saturday Night",
+      "author": "A-Frame Authors",
+      "description": "The hottest dance club. Be a bear, a chicken, Elvis, or a disco lady, and shake it off. Record a dance in VR and show the world your moves.",
+      "url": "https://aframe.io/a-saturday-night/",
+      "image_url": "https://supermedium.com/superassets/site/asaturdaynight.jpg",
+      "tags": [
+        "music",
+        "social",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Virtual Art Sessions",
+      "author": "Google",
+      "description": "Six world-renowned artists given a new way to paint, draw, and sculpt. Observe them as they paint.",
+      "url": "https://virtualart.chromeexperiments.com/vr/",
+      "image_url": "https://supermedium.com/superassets/site/virtualartsessions.jpg",
+      "tags": [
+        "art",
+        "education",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Space Rocks",
+      "author": "Stewart Smith",
+      "description": "Escape through space on stolen plasma engines while slinging photon bolts at deadly asteroids. How many can you blow apart?",
+      "url": "https://spacerocks.moar.io/",
+      "image_url": "https://supermedium.com/superassets/site/spacerocks.jpg",
+      "tags": [
+        "space",
+        "game",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "City Builder",
+      "author": "Kieran Farr",
+      "description": "Create a virtual city with your hands using a library of pixel-style models. You are the mayor.",
+      "url": "https://aframe.city/",
+      "image_url": "https://supermedium.com/superassets/site/citybuilder.jpg",
+      "tags": [
+        "creative",
+        "simulation",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Broken Mantra",
+      "author": "Mr.doob",
+      "description": "Feel the bass in a computer generated music video for Lorn's 'Broken Mantra'. Orbs, particles, lights, streaks, glitch, music.",
+      "url": "https://mrdoob.github.io/brokenmantra/?webvr",
+      "image_url": "https://supermedium.com/superassets/site/brokenmantra.jpg",
+      "tags": [
+        "music",
+        "art",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Inside Music",
+      "author": "Song Exploder + Google",
+      "description": "Step inside music to get a closer look at how they're made. Explode songs to their individual ingredients.",
+      "url": "https://experiments.withgoogle.com/webvr/inside-music/view/",
+      "image_url": "https://supermedium.com/superassets/site/insidemusic.jpg",
+      "tags": [
+        "music",
+        "education",
+        "interactive"
+      ],
+      "framework": "WebVR",
+      "source": "webvr.directory"
+    },
+    {
+      "title": "Open Saber",
+      "author": "Leandro Dreamer",
+      "description": "Open Source Rythmic Block Cutting Game :)",
+      "url": "https://leandrodreamer.itch.io/open-saber",
+      "image_url": "https://img.itch.zone/aW1nLzEzMzgzMzgzLmdpZg==/315x250%23c/%2BQ1zP5.gif",
+      "tags": [
+        "rhythm",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "2251880"
+    },
+    {
+      "title": "Backrooms",
+      "author": "Esyverse",
+      "description": "A horror game, but with full lights on!",
+      "url": "https://esyverse.itch.io/backrooms",
+      "image_url": "https://img.itch.zone/aW1nLzIxNTk1MzgucG5n/315x250%23c/iiZYgm.png",
+      "tags": [
+        "survival",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "431410"
+    },
+    {
+      "title": "Fit'n Punch XR",
+      "author": "DAYDEV",
+      "description": "Fit'n Punch XR, face off in the VR virtual ring where you'll jab or uppercut.",
+      "url": "https://daydev.itch.io/xrpunch",
+      "image_url": "https://img.itch.zone/aW1nLzU5NzcxMzUucG5n/315x250%23c/EJWlcl.png",
+      "tags": [
+        "action",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1045820"
+    },
+    {
+      "title": "MORTAL COIL",
+      "author": "rosesrot",
+      "description": "A reality TV cyberpunk death game: if you die in game, you die in real life!",
+      "url": "https://rosesrot.itch.io/mortal-coil",
+      "image_url": "https://img.itch.zone/aW1nLzEzMDc0ODMxLmdpZg==/315x250%23c/8S6BLw.gif",
+      "tags": [
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "2203174"
+    },
+    {
+      "title": "Bringris",
+      "author": "Zeno Rogue",
+      "description": "non-Euclidean falling block game",
+      "url": "https://zenorogue.itch.io/bringris",
+      "image_url": "https://img.itch.zone/aW1nLzQ0MTM5NjkucG5n/315x250%23c/BjxAx2.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "macOS"
+      ],
+      "price": "$2.99",
+      "genre": "Puzzle",
+      "game_id": "787596"
+    },
+    {
+      "title": "Mirror VR",
+      "author": "Donitz",
+      "description": "A short horror experience",
+      "url": "https://donitz.itch.io/mirror-vr",
+      "image_url": "https://img.itch.zone/aW1nLzI3ODgwODUucG5n/315x250%23c/z1WLVz.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "536277"
+    },
+    {
+      "title": "University Recipes[VR]",
+      "author": "Reitax",
+      "description": "The Ultimate Students' Flat Cooking Sim!",
+      "url": "https://reitax.itch.io/university-recipes",
+      "image_url": "https://img.itch.zone/aW1nLzUyMDg5MzYuanBn/315x250%23c/0aUYD7.jpg",
+      "tags": [
+        "mobile-vr",
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "859900"
+    },
+    {
+      "title": "Krossa [VR]",
+      "author": "Kodub",
+      "description": "Smash and shatter glass objects in virtual reality.",
+      "url": "https://kodub.itch.io/krossa",
+      "image_url": "https://img.itch.zone/aW1nLzMwMTg0MzYucG5n/315x250%23c/enlfQb.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "573794"
+    },
+    {
+      "title": "Planets by Earth [VR]",
+      "author": "Kodub",
+      "description": "What if the planets were as close as the Moon?",
+      "url": "https://kodub.itch.io/planets-by-earth",
+      "image_url": "https://img.itch.zone/aW1nLzMzNDYyMDMuanBn/315x250%23c/DxwbjB.jpg",
+      "tags": [
+        "educational",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "627610"
+    },
+    {
+      "title": "Cyber Purge",
+      "author": "The Green Herring",
+      "description": "Old-school post-cyberpunk shooting action for ZZT",
+      "url": "https://thegreenherring.itch.io/cyber-purge-zzt",
+      "image_url": "https://img.itch.zone/aW1nLzE1NDAxMzcwLnBuZw==/315x250%23c/hDiR99.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2526689"
+    },
+    {
+      "title": "Simon DJ",
+      "author": "jangames",
+      "description": "Simon DJ is a rythm game about keeping the party alive. Best played with a VR HMD",
+      "url": "https://jangames.itch.io/simon-dj",
+      "image_url": "https://img.itch.zone/aW1nLzMyOTM5NDIucG5n/315x250%23c/eoi0tx.png",
+      "tags": [
+        "rhythm",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "619348"
+    },
+    {
+      "title": "Switchboard Copper",
+      "author": "Citizens of Antiford",
+      "description": "You're a police officer dealing with a series of escalating crimes in the fictional world of Antiford.",
+      "url": "https://citizensofantiford.itch.io/switchboard-copper",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMzEwNDA1LzE1MjU2MjEuanBn/315x250%23c/jgsF%2Fn.jpg",
+      "tags": [
+        "mobile-vr",
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "310405"
+    },
+    {
+      "title": "The Fallen City",
+      "author": "NeoSpark314",
+      "description": "A Procedural 3D Dungeon Crawler",
+      "url": "https://neospark314.itch.io/the-fallen-city",
+      "image_url": "https://img.itch.zone/aW1nLzIyMzc2NTEucG5n/315x250%23c/CEa99T.png",
+      "tags": [
+        "role-playing",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Role Playing",
+      "game_id": "444157"
+    },
+    {
+      "title": "Witches drinking tea",
+      "author": "madmarcel",
+      "description": "A small visual novel experiment",
+      "url": "https://madmarcel.itch.io/witches-drinking-tea",
+      "image_url": "https://img.itch.zone/aW1nLzE4MzI1OTAucG5n/315x250%23c/oa%2BC26.png",
+      "tags": [
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "366093"
+    },
+    {
+      "title": "Getaway Car",
+      "author": "texelpad",
+      "description": "Evade the cops as long as possible! Weave through traffic and honk until your actions finally catch up with you.",
+      "url": "https://texelpad.itch.io/getaway-car",
+      "image_url": "https://img.itch.zone/aW1nLzExMzM1NDk3LnBuZw==/315x250%23c/tQGfG%2F.png",
+      "tags": [
+        "web-vr",
+        "racing"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Racing",
+      "game_id": "1928114"
+    },
+    {
+      "title": "Mystery Island AR/VR",
+      "author": "Jhonys L. de Oliveira",
+      "description": "",
+      "url": "https://jhonysoliveira.itch.io/mystery-island",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjE5NjAxLzEwMzY0NzkuanBn/315x250%23c/iUxNGv.jpg",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "219601"
+    },
+    {
+      "title": "Verano del '97",
+      "author": "Sandro Wainmaier",
+      "description": "En Verano del '97 es un juego sobre el caso de Jose Luis Cabezas",
+      "url": "https://magushat.itch.io/verano-del-97",
+      "image_url": "https://img.itch.zone/aW1nLzExODc3OTA1LmpwZw==/315x250%23c/DCCVjZ.jpg",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "2019370"
+    },
+    {
+      "title": "Looking Back By Elly Heise",
+      "author": "IC Contemporary",
+      "description": "A Digital Exhibition featuring Elly Heise",
+      "url": "https://ic-contemporary.itch.io/looking-back",
+      "image_url": "https://img.itch.zone/aW1nLzQ3MzE5NTguanBn/315x250%23c/2C6RWZ.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "macOS"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "844087"
+    },
+    {
+      "title": "Ember Interlude",
+      "author": "Andy Miller",
+      "description": "The Dark Souls bonfire experience",
+      "url": "https://direlogomachist.itch.io/ember-interlude",
+      "image_url": "https://img.itch.zone/aW1hZ2UvODY4MzIvNDQzMzc2LmdpZg==/315x250%23c/j1utCw.gif",
+      "tags": [
+        "mobile-vr",
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "86832"
+    },
+    {
+      "title": "StrikeEyeVR",
+      "author": "Games Garden",
+      "description": "",
+      "url": "https://bryarey.itch.io/strikeeyevr",
+      "image_url": "https://img.itch.zone/aW1nLzE5MTE5NzMucG5n/315x250%23c/F%2BOQc%2B.png",
+      "tags": [
+        "mobile-vr",
+        "shooter",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "$1",
+      "genre": "Shooter",
+      "game_id": "381395"
+    },
+    {
+      "title": "Попади в Вену",
+      "author": "welwise studio",
+      "description": "Три опаснейшие зависимости: героин, углеводы, геймдев.",
+      "url": "https://welwise-studio.itch.io/hit-the-vein",
+      "image_url": "https://img.itch.zone/aW1nLzExMzEyODk0LnBuZw==/315x250%23c/mgiDfe.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1922867"
+    },
+    {
+      "title": "3D Monster Maze VR",
+      "author": "Stephen Smith",
+      "description": "Avoid the Monster and get to the exit!",
+      "url": "https://stephensmith.itch.io/3d-monster-maze-vr",
+      "image_url": "https://img.itch.zone/aW1nLzkxNjExMDUuanBn/315x250%23c/IcCad%2B.jpg",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1568954"
+    },
+    {
+      "title": "RaVR",
+      "author": "Sorskoot",
+      "description": "Enter VR and become the DJ of your own party!",
+      "url": "https://sorskoot.itch.io/ravr",
+      "image_url": "https://img.itch.zone/aW1nLzM0MTI0NDQucG5n/315x250%23c/JDTgaT.png",
+      "tags": [
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "637892"
+    },
+    {
+      "title": "Drones",
+      "author": "jason-indie",
+      "description": "Targets acquired!",
+      "url": "https://jason-indie.itch.io/drones",
+      "image_url": "https://img.itch.zone/aW1nLzI4NjU4MDcucG5n/315x250%23c/AyqNdQ.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "548445"
+    },
+    {
+      "title": "Branch Out",
+      "author": "tinyzigzag",
+      "description": "Bonsai in your browser or in VR on Quest!",
+      "url": "https://tinyzigzag.itch.io/branch-out",
+      "image_url": "https://img.itch.zone/aW1nLzIwMjA5Nzk3LmdpZg==/315x250%23c/CufoBJ.gif",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2814896"
+    },
+    {
+      "title": "Beat Knight XR",
+      "author": "DAYDEV",
+      "description": "WebXR Game for Everyone, Beat Knight XR Play on Browser with Oculus Quest.",
+      "url": "https://daydev.itch.io/beatknightxr",
+      "image_url": "https://img.itch.zone/aW1nLzU5MDAxMjEuanBn/315x250%23c/5LFWlP.jpg",
+      "tags": [
+        "action",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1033808"
+    },
+    {
+      "title": "Hell Defender",
+      "author": "Space Monkey",
+      "description": "One button wave shooter, but in hell",
+      "url": "https://spacemonkeyc.itch.io/hell-defender",
+      "image_url": "https://img.itch.zone/aW1nLzI1NjQ5NzcucG5n/315x250%23c/Vc8QnC.png",
+      "tags": [
+        "shooter",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "496410"
+    },
+    {
+      "title": "VRn't",
+      "author": "Joms",
+      "description": "INCOMPATIBLE GENRES: VR and Your Living Room",
+      "url": "https://joms.itch.io/vrnt",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjQ5ODg0LzExOTMyNzAucG5n/315x250%23c/7kUF8K.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "249884"
+    },
+    {
+      "title": "Nocturne No. 1",
+      "author": "Glenn Essex",
+      "description": "A VR night terror",
+      "url": "https://glennessex.itch.io/nocturne-no-1",
+      "image_url": "https://img.itch.zone/aW1nLzQ0NzU3OTkuanBn/315x250%23c/WkDgAG.jpg",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "799287"
+    },
+    {
+      "title": "b r 1",
+      "author": "pippinbarr",
+      "description": "A Bitsy remake of the game v r 1",
+      "url": "https://pippinbarr.itch.io/b-r-1",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjYwMjUwLzEyNTAwNjAuanBn/315x250%23c/6M5M%2Fk.jpg",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "260250"
+    },
+    {
+      "title": "Dino Care VR",
+      "author": "Jacob Ibáñez",
+      "description": "Dino Vet Simulator",
+      "url": "https://iakobs.itch.io/dino-care-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE5MTUwNTQ5LnBuZw==/315x250%23c/DhsKYg.png",
+      "tags": [
+        "mobile-vr",
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "3207020"
+    },
+    {
+      "title": "tempoVR",
+      "author": "Guy Sheffer",
+      "description": "A VR rhythm game where the beats power your Tempo Baton's™ ability to modify the tempo of the music.",
+      "url": "https://guysoft.itch.io/tempovr",
+      "image_url": "https://img.itch.zone/aW1nLzc1OTE2NDAuanBn/315x250%23c/jY%2FnVe.jpg",
+      "tags": [
+        "rhythm",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "1298433"
+    },
+    {
+      "title": "Neon Missile 3D",
+      "author": "fantarama",
+      "description": "Experience the speed in this neon colorful 3D game. Ready for VR Cardboard!",
+      "url": "https://fantarama.itch.io/neon-missile-3d",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMzMyNDQvMTQyNjMxLmpwZw==/315x250%23c/GfCl%2BK.jpg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "33244"
+    },
+    {
+      "title": "Mirror Mystery",
+      "author": "Vhite Rabbit XR",
+      "description": "web-based VR game",
+      "url": "https://vhite-rabbit-xr.itch.io/mirror-mystery",
+      "image_url": "https://img.itch.zone/aW1nLzE1ODQ5NDM0LnBuZw==/315x250%23c/Llr3JI.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "2659767"
+    },
+    {
+      "title": "doroboarashi onara shizopidoras",
+      "author": "vetta_vetka",
+      "description": "tribute",
+      "url": "https://vetta-vetka.itch.io/doroboarashi-onara-shizopidoras",
+      "image_url": "https://img.itch.zone/aW1nLzIzMDUwMzY1LmdpZg==/315x250%23c/rIi3O4.gif",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "3800790"
+    },
+    {
+      "title": "WebXR - Red Light, Green Light",
+      "author": "De-Panther",
+      "description": "Classic Red Light, Green Light game in WebXR",
+      "url": "https://de-panther.itch.io/webxr-red-light-green-light",
+      "image_url": "https://img.itch.zone/aW1nLzc0MzA4NzYucG5n/315x250%23c/eETr%2Bv.png",
+      "tags": [
+        "webxr",
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "1276366"
+    },
+    {
+      "title": "Archery in Another Dimension",
+      "author": "hacknick",
+      "description": "A Sneak Peek at My VR Game's Core Mechanics",
+      "url": "https://hacknick.itch.io/vr-archery",
+      "image_url": "https://img.itch.zone/aW1nLzEzNDAyNTczLnBuZw==/315x250%23c/W24qRE.png",
+      "tags": [
+        "web-vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "2260648"
+    },
+    {
+      "title": "Reality Dealer",
+      "author": "kalydoscope",
+      "description": "Sell your VR to the masses! Hopefully their lives can get bad enough to want to escape this reality.",
+      "url": "https://kalydoscope.itch.io/reality-dealer",
+      "image_url": "https://img.itch.zone/aW1nLzgyNzI3NTAucG5n/315x250%23c/WgW0zy.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1420552"
+    },
+    {
+      "title": "Ghosts in the Machines",
+      "author": "Virtual Girl",
+      "description": "Explore a dead world where VR has taken over everything.",
+      "url": "https://virtual-girl.itch.io/ghosts-in-the-machines",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMzA3NDQ5LzE1MDk0MzkucG5n/315x250%23c/QUBBh6.png",
+      "tags": [
+        "interactive-fiction",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Interactive Fiction",
+      "game_id": "307449"
+    },
+    {
+      "title": "Summer Pottery VR",
+      "author": "ProYd",
+      "description": "Craft ceramic jars and enjoy summer.",
+      "url": "https://proyd.itch.io/summer-pottery",
+      "image_url": "https://img.itch.zone/aW1nLzE2OTA4MjE1LnBuZw==/315x250%23c/UPVlYV.png",
+      "tags": [
+        "educational",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "2830121"
+    },
+    {
+      "title": "VR Art Exhibition_4/10 Korean Artists",
+      "author": "ZAK",
+      "description": "",
+      "url": "https://studio-zak.itch.io/vr-art-exhibition02",
+      "image_url": "https://img.itch.zone/aW1nLzc4MzEzOTguanBn/315x250%23c/6D%2FfBG.jpg",
+      "tags": [
+        "visual-novel",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "1345575"
+    },
+    {
+      "title": "BBWS Brantas Virtual Expo 2021",
+      "author": "Denys Gamers Studio",
+      "description": "BBWS Brantas Virtual Expo 2021 - Memperingati Hari Air Dunia. Klik gambar untuk melanjutkan",
+      "url": "https://denysgamersstudio.itch.io/virtual-pameran-karya",
+      "image_url": "https://img.itch.zone/aW1nLzU0Nzg1NTguanBn/315x250%23c/%2B1WGVE.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "960423"
+    },
+    {
+      "title": "V R Cubes",
+      "author": "Benji Kay",
+      "description": "V R all cubes. All of us. V really R.",
+      "url": "https://okaybenji.itch.io/v-r-cubes",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMTE1MDQ2LzUzMjgzNC5wbmc=/315x250%23c/esO53X.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "115046"
+    },
+    {
+      "title": "Krasue",
+      "author": "DAYDEV",
+      "description": "WebXR game. ​The malevolent ghost had summoned the Filth Eating Spirits from the unending abyss to harm the villagers.",
+      "url": "https://daydev.itch.io/krasue",
+      "image_url": "https://img.itch.zone/aW1nLzEzODI1MjkxLnBuZw==/315x250%23c/fIMcbF.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2331474"
+    },
+    {
+      "title": "Slap A Cube WebXR",
+      "author": "protofun",
+      "description": "Fast-paced Whac-A-Mole-Like game for WebXR!",
+      "url": "https://protofun.itch.io/slap-a-cube-webxr",
+      "image_url": "https://img.itch.zone/aW1nLzc2NDMwMjYucG5n/315x250%23c/dxoGBb.png",
+      "tags": [
+        "action",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1308984"
+    },
+    {
+      "title": "Grid-based-movement-controller Signs Walker 3D 8MB",
+      "author": "investus.itch.io",
+      "description": "9MB move Smoth directors Cam=Rig, for easy to play Fps, Grid based movement controller Signs Walker Unity 3D Touch WebGL",
+      "url": "https://investus.itch.io/grid-based-movement-controller-signs-walker-3d",
+      "image_url": "https://img.itch.zone/aW1nLzE0NDk3MzYxLnBuZw==/315x250%23c/NR5zRJ.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2446790"
+    },
+    {
+      "title": "Vertigo Maze",
+      "author": "Malcolm Nixon",
+      "description": "Navigate the 3D maze using climbing, gliding, jump-pads, wind, and grappling hook.",
+      "url": "https://malcolmnixon.itch.io/vertigo-maze",
+      "image_url": "https://img.itch.zone/aW1nLzkyMDg3OTUucG5n/315x250%23c/CIGXIS.png",
+      "tags": [
+        "puzzle",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1562904"
+    },
+    {
+      "title": "SpeedPunk VR",
+      "author": "pandartb3d",
+      "description": "Futuristic Racing Game for the MetaQuest",
+      "url": "https://pandartb3d.itch.io/speedpunk-vr",
+      "image_url": "https://img.itch.zone/aW1nLzkwOTM0NTUucG5n/315x250%23c/cCs5PK.png",
+      "tags": [
+        "mobile-vr",
+        "web-vr",
+        "racing",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Racing",
+      "game_id": "1557454"
+    },
+    {
+      "title": "Southern Illinois University School of Medicine Sepsis Module",
+      "author": "Center for Virtual Expression",
+      "description": "An interactive learning module about the treatment of sepsis",
+      "url": "https://siucvex.itch.io/sepsis-module",
+      "image_url": "https://img.itch.zone/aW1nLzEyOTUzOTA0LnBuZw==/315x250%23c/BiWJuj.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "2192856"
+    },
+    {
+      "title": "Barrier Mage",
+      "author": "DougReeder",
+      "description": "Draw mystic symbols which burn, protect, bind, detect, illuminate or link & drive off magic creatures!",
+      "url": "https://dougreeder.itch.io/barrier-mage",
+      "image_url": "https://img.itch.zone/aW1nLzU0MjQzMDMuanBn/315x250%23c/EXs0T9.jpg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "956669"
+    },
+    {
+      "title": "Drum Simulator XR",
+      "author": "LilG00s3",
+      "description": "A WebVR drumming game",
+      "url": "https://lilg00s3.itch.io/drum-simulator-xr",
+      "image_url": "https://img.itch.zone/aW1nLzE2OTg3Mzk0LnBuZw==/315x250%23c/ekJtr0.png",
+      "tags": [
+        "webxr",
+        "rhythm",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "2842678"
+    },
+    {
+      "title": "Älskar Helvetesavkomma",
+      "author": "SabeyTee",
+      "description": "Saker går fel när du försöker åkalla en demon.",
+      "url": "https://sabeytee.itch.io/lskar-helvetesavkomma",
+      "image_url": "https://img.itch.zone/aW1nLzE2OTg3OTg2LnBuZw==/315x250%23c/0PgKgG.png",
+      "tags": [
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "2842816"
+    },
+    {
+      "title": "Cloud Commander VR",
+      "author": "David Snopek",
+      "description": "Fly in the clouds and shoot aliens.",
+      "url": "https://dsnopek.itch.io/cloud-commander-vr",
+      "image_url": "https://img.itch.zone/aW1nLzIyNDc0MDEwLnBuZw==/315x250%23c/%2FT2Gkf.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2402351"
+    },
+    {
+      "title": "LabyRoots",
+      "author": "Pipo",
+      "description": "The mother of all trees must succumb.",
+      "url": "https://signorpipo.itch.io/labyroots",
+      "image_url": "https://img.itch.zone/aW1nLzExMjY5MjIxLnBuZw==/315x250%23c/AHZMsZ.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "1910567"
+    },
+    {
+      "title": "Burst A Bloon VR (WebXR)",
+      "author": "Ric Haines Makes Games",
+      "description": "A web VR carnival game jam entry",
+      "url": "https://absentmindedness.itch.io/carnivr",
+      "image_url": "https://img.itch.zone/aW1nLzE2MDY4MzQ2LnBuZw==/315x250%23c/b4ophX.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr",
+        "webxr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2343694"
+    },
+    {
+      "title": "Dark City",
+      "author": "Malcolm Nixon",
+      "description": "VR Hero Game for Quest",
+      "url": "https://malcolmnixon.itch.io/dark-city",
+      "image_url": "https://img.itch.zone/aW1nLzkxMDgyODkuanBn/315x250%23c/reRTch.jpg",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1560522"
+    },
+    {
+      "title": "Last Stand! (VR ONLY)",
+      "author": "Sorskoot",
+      "description": "",
+      "url": "https://sorskoot.itch.io/last-stand",
+      "image_url": "https://img.itch.zone/aW1nLzE2NDExODI4LnBuZw==/315x250%23c/6Mdjfq.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2750087"
+    },
+    {
+      "title": "TimeShift",
+      "author": "Pawel Szpiczakowski",
+      "description": "",
+      "url": "https://panpawka.itch.io/timeshift",
+      "image_url": "https://img.itch.zone/aW1hZ2UvNTU5NTIvMjUwNjUyLnBuZw==/315x250%23c/Ys1jIk.png",
+      "tags": [
+        "web-vr",
+        "platformer"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "macOS"
+      ],
+      "price": "Free",
+      "genre": "Platformer",
+      "game_id": "55952"
+    },
+    {
+      "title": "Dolly's House (VR ONLY)",
+      "author": "Sorskoot",
+      "description": "",
+      "url": "https://sorskoot.itch.io/dollys-house",
+      "image_url": "https://img.itch.zone/aW1nLzIxMzk1MDU3LnBuZw==/315x250%23c/WoI6If.png",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "3583738"
+    },
+    {
+      "title": "Carnival Shooter VR (WebXR)",
+      "author": "PieroTechnical",
+      "description": "",
+      "url": "https://pierotechnical.itch.io/carnival-shooter-vr",
+      "image_url": "https://img.itch.zone/aW1nLzEzOTQxNjI2LmpwZw==/315x250%23c/8v2cEB.jpg",
+      "tags": [
+        "webxr",
+        "shooter",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "2350143"
+    },
+    {
+      "title": "Lemon Atoll",
+      "author": "m₂",
+      "description": "A simple, dumb, VR game.",
+      "url": "https://msub2.itch.io/lemon-atoll",
+      "image_url": "https://img.itch.zone/aW1nLzE5OTcxMDMucG5n/315x250%23c/A8d40d.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "402458"
+    },
+    {
+      "title": "VR Grocery Store V2024",
+      "author": "MrSticks",
+      "description": "Game is in \"EARLY ALPHA\". Please give me feedback or new ideas to make this game awesome",
+      "url": "https://mrsticks.itch.io/vrstore",
+      "image_url": "https://img.itch.zone/aW1nLzEwMzMyMTAyLnBuZw==/315x250%23c/NgSD%2Fu.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1750960"
+    },
+    {
+      "title": "Abandoned World",
+      "author": "Kirsten Gross",
+      "description": "An abandoned town where nature thrives.",
+      "url": "https://kirstengross.itch.io/abandoned-world",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMTI3NjA4LzU4NzQ5OC5wbmc=/315x250%23c/LbMCNg.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "127608"
+    },
+    {
+      "title": "Virtual Goose Gallery 2021",
+      "author": "Goosetopher_Visual",
+      "description": "A work-in-progress gallery of some of my visual art from 2020 and 2021",
+      "url": "https://goosetopher-visual.itch.io/virtual-goose-gallery-2021",
+      "image_url": "https://img.itch.zone/aW1nLzc1OTk0MTUuanBn/315x250%23c/Yoljet.jpg",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1306371"
+    },
+    {
+      "title": "Dragon Ball VR",
+      "author": "Edo999",
+      "description": "Explore iconic places from the world of Dragon Ball in VR",
+      "url": "https://edo999.itch.io/dragon-ball-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE4MjIyNDIwLmpwZw==/315x250%23c/dkMlXA.jpg",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "3040353"
+    },
+    {
+      "title": "Carnival Shooting VR",
+      "author": "YODE",
+      "description": "A shooting gallery in VR !",
+      "url": "https://yode-studio.itch.io/carnival-shooting-vr",
+      "image_url": "https://img.itch.zone/aW1nLzEzOTI2MjY0LmpwZw==/315x250%23c/ACx0tZ.jpg",
+      "tags": [
+        "shooter",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "2350815"
+    },
+    {
+      "title": "DAW [n] XR",
+      "author": "gameshire98",
+      "description": "A sequencer and synth using WebXR and Playcanvas, for VR Challenge #3",
+      "url": "https://gameshire98.itch.io/dawnxr",
+      "image_url": "https://img.itch.zone/aW1nLzkzNjc3MDAucG5n/315x250%23c/6ME5tS.png",
+      "tags": [
+        "webxr",
+        "rhythm",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "1601281"
+    },
+    {
+      "title": "Rock-Paper-Infinity",
+      "author": "David Snopek",
+      "description": "Play Rock-Paper-Scissors with growing and evolving rules in VR with hand-tracking!",
+      "url": "https://dsnopek.itch.io/rock-paper-infinity",
+      "image_url": "https://img.itch.zone/aW1nLzIzMTcwNzIyLnBuZw==/315x250%23c/23UvkL.png",
+      "tags": [
+        "mobile-vr",
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "3883446"
+    },
+    {
+      "title": "Agni Kairo: VR Firebending",
+      "author": "Vikfro",
+      "description": "Cleanse the evil spirits with your Flameweaving fists! Godot XR Game Jam Feb 2025",
+      "url": "https://vikfro.itch.io/agni-kairo-vr-firebending",
+      "image_url": "https://img.itch.zone/aW1nLzE5ODk2NjU1LnBuZw==/315x250%23c/1SeHee.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "3332093"
+    },
+    {
+      "title": "Angry Beans",
+      "author": "InnerChaosGames",
+      "description": "",
+      "url": "https://innerchaosgames.itch.io/angry-beans",
+      "image_url": "https://img.itch.zone/aW1nLzE1ODU0Mzg1LnBuZw==/315x250%23c/dxZkQN.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2660736"
+    },
+    {
+      "title": "High Alchemist VR",
+      "author": "David Snopek",
+      "description": "Brew potions and heal the populace",
+      "url": "https://dsnopek.itch.io/high-alchemist-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE5ODk2MzY5LnBuZw==/315x250%23c/qO18Wa.png",
+      "tags": [
+        "mobile-vr",
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "3331521"
+    },
+    {
+      "title": "Duck Slayer",
+      "author": "stompy32",
+      "description": "A VR Remake of Duck Hunt",
+      "url": "https://stompy32.itch.io/duck-slayer",
+      "image_url": "https://img.itch.zone/aW1nLzY1NDQ0NDcuZ2lm/315x250%23c/rBpArK.gif",
+      "tags": [
+        "shooter",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "1129873"
+    },
+    {
+      "title": "Rocketeer Training",
+      "author": "Malcolm Nixon",
+      "description": "VR Rocket pack flight training",
+      "url": "https://malcolmnixon.itch.io/rocketeer-training",
+      "image_url": "https://img.itch.zone/aW1nLzkyODY2OTMucG5n/315x250%23c/vIJytA.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1560492"
+    },
+    {
+      "title": "The Sentinal VR",
+      "author": "Stephen Smith",
+      "description": "A Virtual Reality remake of The Sentinel",
+      "url": "https://stephensmith.itch.io/the-sentinal-vr",
+      "image_url": "https://img.itch.zone/aW1nLzM3MDI4OTYuanBn/315x250%23c/enXrf5.jpg",
+      "tags": [
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "675791"
+    },
+    {
+      "title": "VIRTUAL DRUMS ONLINE",
+      "author": "Abdo",
+      "description": "",
+      "url": "https://abdo.itch.io/virtual-drums-online",
+      "image_url": "https://img.itch.zone/aW1nLzUwMTY0ODkuanBn/315x250%23c/E6RetE.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "889429"
+    },
+    {
+      "title": "mr NOT - enough IS enough",
+      "author": "Pipo",
+      "description": "don't make me wait",
+      "url": "https://signorpipo.itch.io/enough-is-enough",
+      "image_url": "https://img.itch.zone/aW1nLzEwNTE3MzEyLnBuZw==/315x250%23c/6pkAmO.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1294737"
+    },
+    {
+      "title": "SGuys-Water",
+      "author": "nacherica",
+      "description": "",
+      "url": "https://nacherica.itch.io/stumblewater",
+      "image_url": "https://img.itch.zone/aW1nLzE0MjUxMzcxLmpwZw==/315x250%23c/0ElGaF.jpg",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "2349840"
+    },
+    {
+      "title": "Zen Bubbles XR",
+      "author": "Donitz",
+      "description": "Bubbles Bubbles Bubbles",
+      "url": "https://donitz.itch.io/zen-bubbles-xr",
+      "image_url": "https://img.itch.zone/aW1nLzE5NTMzODgxLnBuZw==/315x250%23c/rcVXDZ.png",
+      "tags": [
+        "simulation",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "3272837"
+    },
+    {
+      "title": "Achtung Banditen ?! [VR]",
+      "author": "RedMagicBlue",
+      "description": "Immersive VR installation for Smartphone, Tablet and PC",
+      "url": "https://redmagicblue.itch.io/achtung-banditen",
+      "image_url": "https://img.itch.zone/aW1nLzEwNjg5NzU2LnBuZw==/315x250%23c/awgZxh.png",
+      "tags": [
+        "educational",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "1372795"
+    },
+    {
+      "title": "Peon Pusher - LD32",
+      "author": "koujaku",
+      "description": "Ever herd of exploding sheep?",
+      "url": "https://koujaku.itch.io/peon-pusher",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjM1NzkvOTM1NzQuZ2lm/315x250%23c/%2BMZf0S.gif",
+      "tags": [
+        "mobile-vr",
+        "strategy",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Strategy",
+      "game_id": "23579"
+    },
+    {
+      "title": "Escape the Lab",
+      "author": "yoonicode",
+      "description": "VR/PC stealth and FPS game. Escape before the robots find you!",
+      "url": "https://yoonicode.itch.io/escape-the-lab",
+      "image_url": "https://img.itch.zone/aW1nLzQzMTA3ODAucG5n/315x250%23c/UPjS%2BL.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "770415"
+    },
+    {
+      "title": "Pixel Arena",
+      "author": "m₂",
+      "description": "A VR mess made in Godot",
+      "url": "https://msub2.itch.io/pixel-arena",
+      "image_url": "https://img.itch.zone/aW1nLzQxMTMxNDkucG5n/315x250%23c/HJ6fhb.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "738748"
+    },
+    {
+      "title": "Tumbleweed Defender",
+      "author": "WillItAugment",
+      "description": "",
+      "url": "https://willitaugment.itch.io/tumbleweed-defender",
+      "image_url": "https://img.itch.zone/aW1nLzExODY2NTc2LnBuZw==/315x250%23c/dPQnl7.png",
+      "tags": [
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "2013881"
+    },
+    {
+      "title": "The Magical Cube",
+      "author": "Mert",
+      "description": "Explore the land around the Magical Cube",
+      "url": "https://mertck.itch.io/the-magical-cube",
+      "image_url": "https://img.itch.zone/aW1nLzc3NTUxNjgucG5n/315x250%23c/DiOP7m.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "1333234"
+    },
+    {
+      "title": "Lunattack",
+      "author": "captain-mingo",
+      "description": "Save the moon 🌙 from rocket 🚀 attack! . . . . . (using your phone in VR)",
+      "url": "https://captain-mingo.itch.io/lunattack",
+      "image_url": "https://img.itch.zone/aW1nLzQ3MDgzMTQucG5n/315x250%23c/hAiyHM.png",
+      "tags": [
+        "shooter",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "839815"
+    },
+    {
+      "title": "Off-Killter",
+      "author": "elocnat",
+      "description": "Record & replay movements to spot defective robots as a QA tester at Killter Innovations!",
+      "url": "https://elocnat.itch.io/off-killter",
+      "image_url": "https://img.itch.zone/aW1nLzM2NDgyODUuZ2lm/315x250%23c/ubKcbH.gif",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "638036"
+    },
+    {
+      "title": "Villa NK",
+      "author": "cleecdesigns",
+      "description": "Realtime Architectural Visualization",
+      "url": "https://cleecdesigns.itch.io/villank",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMTE4MTQxLzU0NTM0OC5qcGc=/315x250%23c/BIbRg0.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "118141"
+    },
+    {
+      "title": "VR Warrior",
+      "author": "TimurAB",
+      "description": "Prototype of vr sword slasher game. Meta Quest controller support for VR mode.",
+      "url": "https://timurab.itch.io/vr-warrior",
+      "image_url": "https://img.itch.zone/aW1nLzExOTk4MjE1LmpwZw==/315x250%23c/F2W0WM.jpg",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1330518"
+    },
+    {
+      "title": "Server Rider VR",
+      "author": "Donitz",
+      "description": "A short VR game in 13 K.",
+      "url": "https://donitz.itch.io/server-rider-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE1MDMzOTE4LnBuZw==/315x250%23c/vNvspq.png",
+      "tags": [
+        "rhythm",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "2527911"
+    },
+    {
+      "title": "Fall 2021 Creator's Challenge - Punkin Chunkin",
+      "author": "robinhuud",
+      "description": "VR Pumpkin Catapult Halloween",
+      "url": "https://robinhuud.itch.io/fall-2021-creators-challenge-punkin-chunkin",
+      "image_url": "https://img.itch.zone/aW1nLzcyMTMyMDAucG5n/315x250%23c/SVLnOo.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1237380"
+    },
+    {
+      "title": "Mole Mayhem VR (WebXR)",
+      "author": "yuripourre",
+      "description": "Play Whack-a-Mole in VR!",
+      "url": "https://yuripourre.itch.io/mole-mayhem",
+      "image_url": "https://img.itch.zone/aW1nLzE0OTYyMDMzLnBuZw==/315x250%23c/799NcI.png",
+      "tags": [
+        "action",
+        "webxr",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2499861"
+    },
+    {
+      "title": "Delivery Rush",
+      "author": "Psyche Games",
+      "description": "",
+      "url": "https://psyche-games.itch.io/delivery22rush",
+      "image_url": "https://img.itch.zone/aW1nLzEwMTk0MzkyLmpwZw==/315x250%23c/gxjJSE.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1728940"
+    },
+    {
+      "title": "Kabedon VR",
+      "author": "my2iu",
+      "description": "Experience kabedon in the privacy of your own home",
+      "url": "https://my2iu.itch.io/kabedonvr",
+      "image_url": "https://img.itch.zone/aW1nLzE2MTkwMjAxLmpwZw==/315x250%23c/a9pzHL.jpg",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2715427"
+    },
+    {
+      "title": "BarrowlandsVR",
+      "author": "drnoir",
+      "description": "Procedurally Generated Portal game (VR / Desktop)",
+      "url": "https://drnoir.itch.io/barrowlandsvr",
+      "image_url": "https://img.itch.zone/aW1nLzEzNjgwMDM5LmpwZw==/315x250%23c/jIssR%2B.jpg",
+      "tags": [
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "$3",
+      "genre": "Puzzle",
+      "game_id": "2308532"
+    },
+    {
+      "title": "Nerd Tag",
+      "author": "NerddVR",
+      "description": "GORILLA TAG COPY",
+      "url": "https://nerddvr.itch.io/nerd-tag",
+      "image_url": "https://img.itch.zone/aW1nLzE2ODc4NzExLmpwZw==/315x250%23c/qh4xa4.jpg",
+      "tags": [
+        "mobile-vr",
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2825183"
+    },
+    {
+      "title": "Nicole Helena, Self-Titled Exhibit",
+      "author": "IC Contemporary",
+      "description": "A Digital Exhibition featuring Nicole Helena",
+      "url": "https://ic-contemporary.itch.io/ic-contemporary-galleries",
+      "image_url": "https://img.itch.zone/aW1nLzM1MDY4NTAucG5n/315x250%23c/I%2BjXG2.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "652985"
+    },
+    {
+      "title": "Floculus Bird",
+      "author": "Holden Link",
+      "description": "VR FLAPPING > NORMAL FLAPPING",
+      "url": "https://stupidn00b.itch.io/floculus-bird",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMTczOC83OTYyLnBuZw==/315x250%23c/gQsHNW.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1738"
+    },
+    {
+      "title": "El topo y los pajaros",
+      "author": "David Erosa",
+      "description": "A sad and unfinished gameboy game",
+      "url": "https://derosa.itch.io/el-topo-y-los-pajaros",
+      "image_url": "https://img.itch.zone/aW1nLzIzMjE2NTMucG5n/315x250%23c/wYCYuM.png",
+      "tags": [
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "457116"
+    },
+    {
+      "title": "Planet Runner",
+      "author": "Sorskoot",
+      "description": "",
+      "url": "https://sorskoot.itch.io/planet-runner",
+      "image_url": "https://img.itch.zone/aW1nLzQ2NTIwMDkucG5n/315x250%23c/ZV6Zrh.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "830127"
+    },
+    {
+      "title": "Things You Can Do With Two Hands",
+      "author": "Matt Giuca",
+      "description": "VR game where you use both hands simultaneously to solve a variety of challenges. Web and Windows available.",
+      "url": "https://mgiuca.itch.io/two-hands",
+      "image_url": "https://img.itch.zone/aW1nLzIzMTU1MzY5LnBuZw==/315x250%23c/hZL0Mm.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "3874113"
+    },
+    {
+      "title": "foxr-run 3d vr webxr or display with keyboard to play",
+      "author": "investus.itch.io",
+      "description": "3MB foxr-run 3d vr mozilla webxr small fox jump and run, vr is a option or display, Space to jump and run Wasd.",
+      "url": "https://investus.itch.io/foxr-run-webxr",
+      "image_url": "https://img.itch.zone/aW1nLzE1MDQ1MjY5LmpwZw==/315x250%23c/QLJlP%2B.jpg",
+      "tags": [
+        "web-vr",
+        "vr",
+        "platformer"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Platformer",
+      "game_id": "2529818"
+    },
+    {
+      "title": "Do We Have a Dael",
+      "author": "synthoid",
+      "description": "Crossroads Jam 2 submission.",
+      "url": "https://synthoid.itch.io/do-we-have-a-dael",
+      "image_url": "https://img.itch.zone/aW1nLzIxOTIwMzgxLnBuZw==/315x250%23c/uhdABf.png",
+      "tags": [
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "3684161"
+    },
+    {
+      "title": "Constellation Coach VR",
+      "author": "David Snopek",
+      "description": "Relax and learn a few constellations by finding them in the virtual night sky!",
+      "url": "https://dsnopek.itch.io/constellation-coach-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE2OTE3NjcyLnBuZw==/315x250%23c/npCctu.png",
+      "tags": [
+        "mobile-vr",
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "2830514"
+    },
+    {
+      "title": "Yonderquail",
+      "author": "Liza",
+      "description": "",
+      "url": "https://knipsch.itch.io/yonderquail",
+      "image_url": "https://img.itch.zone/aW1nLzgwMjI0ODEucG5n/315x250%23c/cK9uF6.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1377669"
+    },
+    {
+      "title": "The Demon's Draft",
+      "author": "Talberon",
+      "description": "You Take One. It Takes Two.",
+      "url": "https://talberon.itch.io/godot-xr-jam-it-takes-two",
+      "image_url": "https://img.itch.zone/aW1nLzIzMTcwNjY1LnBuZw==/315x250%23c/7Rb4DP.png",
+      "tags": [
+        "card-game",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux"
+      ],
+      "price": "Free",
+      "genre": "Card Game",
+      "game_id": "3883651"
+    },
+    {
+      "title": "SachiTrashCanXR",
+      "author": "sachi-vr",
+      "description": "",
+      "url": "https://sachi-vr.itch.io/trashcanxr",
+      "image_url": "https://img.itch.zone/aW1nLzE0MjA2Mjk1LnBuZw==/315x250%23c/v1MZDs.png",
+      "tags": [
+        "webxr",
+        "web-vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "2396052"
+    },
+    {
+      "title": "Venus & Mondrian",
+      "author": "Remi.Plus",
+      "description": "",
+      "url": "https://remiplus.itch.io/venus-mondrian",
+      "image_url": "https://img.itch.zone/aW1nLzU4MzU2NTUuanBn/315x250%23c/tHNqNC.jpg",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1013783"
+    },
+    {
+      "title": "[Unboxing] VR",
+      "author": "Troy Story Games",
+      "description": "Unbox 211 billion boxes to win",
+      "url": "https://troystorygames.itch.io/unboxing-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE3NDMxMjM3LmdpZg==/315x250%23c/57aWvl.gif",
+      "tags": [
+        "mobile-vr",
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2911098"
+    },
+    {
+      "title": "Erica in Paris",
+      "author": "nacherica",
+      "description": "",
+      "url": "https://nacherica.itch.io/ericainparis",
+      "image_url": "https://img.itch.zone/aW1nLzE1MjE2MDkxLmpwZWc=/315x250%23c/ZrLFvb.jpeg",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "2556952"
+    },
+    {
+      "title": "Jailbreak Kingdom VR",
+      "author": "Zayd Carelse",
+      "description": "VR Prototype January 2021",
+      "url": "https://kelthuzayd.itch.io/jailbreak-kingdom-vr",
+      "image_url": "https://img.itch.zone/aW1nLzUwMTUwODUucG5n/315x250%23c/sr3xED.png",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "889217"
+    },
+    {
+      "title": "WebGL VR Gallery",
+      "author": "Heather_Arima",
+      "description": "",
+      "url": "https://heather-arima.itch.io/webgl-vr-museum",
+      "image_url": "https://img.itch.zone/aW1nLzEwNjM2NDUxLmpwZw==/315x250%23c/X0zqRr.jpg",
+      "tags": [
+        "interactive-fiction",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Interactive Fiction",
+      "game_id": "1810632"
+    },
+    {
+      "title": "Bee Garden (Digital Art Installation)",
+      "author": "Space Owl!",
+      "description": "Digital Art Installation by Alyssa Deck, Kurt Roembke, and Kevin Brooks DOWNLOAD MAC/PC VERSION FOR BEST EXPERIENCE",
+      "url": "https://spaceowlpro.itch.io/bee-garden",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMTkzNjIyLzk0ODMzNy5wbmc=/315x250%23c/9Z2f7I.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "macOS"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "193622"
+    },
+    {
+      "title": "Expedition to Blobotopia (VR)",
+      "author": "David Snopek",
+      "description": "VR puzzle game inspired by \"Lemmings\"",
+      "url": "https://dsnopek.itch.io/expedition-to-blobotopia",
+      "image_url": "https://img.itch.zone/aW1nLzIxMjM2ODU1LnBuZw==/315x250%23c/PH1SrV.png",
+      "tags": [
+        "mobile-vr",
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "3565203"
+    },
+    {
+      "title": "Flappy Flap Balloon Bonk",
+      "author": "ibGoge",
+      "description": "Flap your arms to fly and bonk into your friends' balloons to pop them for fun",
+      "url": "https://ibgoge.itch.io/flappy-flap-balloon-bonk",
+      "image_url": "https://img.itch.zone/aW1nLzE5NjQ4MzY0LmpwZw==/315x250%23c/kb6znc.jpg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "3291520"
+    },
+    {
+      "title": "Cloudwalker",
+      "author": "JLV",
+      "description": "An aerial story-driven game.",
+      "url": "https://jlv.itch.io/cloudwalker",
+      "image_url": "https://img.itch.zone/aW1nLzIwNTUyOTQucG5n/315x250%23c/w%2BXoiA.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "413298"
+    },
+    {
+      "title": "a.goblin.life",
+      "author": "a Goblin King",
+      "description": "other life",
+      "url": "https://goblinlife.itch.io/agoblinlife",
+      "image_url": "https://img.itch.zone/aW1nLzg3NDgwODkuZ2lm/315x250%23c/cZaGXV.gif",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "1488860"
+    },
+    {
+      "title": "Demo Travel House",
+      "author": "Mara0805",
+      "description": "this is an example of travel house using original dimensions and perspectives",
+      "url": "https://mara0805.itch.io/demo-travel-house",
+      "image_url": "",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2595897"
+    },
+    {
+      "title": "Village Defense",
+      "author": "nircoe",
+      "description": "Web VR Game, Protect your Japanese Village!",
+      "url": "https://nircoe.itch.io/village-defense",
+      "image_url": "https://img.itch.zone/aW1nLzE3Mjc3NDA3LnBuZw==/315x250%23c/N83qQh.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2774798"
+    },
+    {
+      "title": "Dollhouse Escape! WebXR",
+      "author": "protofun",
+      "description": "Control a doll using direction instructions and more to get to the exit door.",
+      "url": "https://protofun.itch.io/webxr-dollhouse-escape",
+      "image_url": "https://img.itch.zone/aW1nLzgxMzU3NDAucG5n/315x250%23c/ome1Rm.png",
+      "tags": [
+        "webxr",
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1378275"
+    },
+    {
+      "title": "VR Taiko Drumdercats",
+      "author": "gametoilet",
+      "description": "Drumdercats HOOOOOOOO!",
+      "url": "https://gametoilet.itch.io/vr-taiko-drumdercats",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjYxMjQyLzEyNTQ5NTguanBn/315x250%23c/uxpmlB.jpg",
+      "tags": [
+        "rhythm",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "261242"
+    },
+    {
+      "title": "Ring Ring",
+      "author": "TR0LLB0T",
+      "description": "Move a small ring around a big ring in VR",
+      "url": "https://tr0llb0t.itch.io/ring-ring",
+      "image_url": "https://img.itch.zone/aW1nLzIwNTI1OTEyLmpwZw==/315x250%23c/I78R0w.jpg",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "3440332"
+    },
+    {
+      "title": "Exposición VR",
+      "author": "nora.cia",
+      "description": "Small exposition on Virtual Reality",
+      "url": "https://noracia.itch.io/exposicin-vr",
+      "image_url": "https://img.itch.zone/aW1nLzQyOTg1NDMucG5n/315x250%23c/xmyoCo.png",
+      "tags": [
+        "mobile-vr",
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "768309"
+    },
+    {
+      "title": "BackStealth VR",
+      "author": "Qendajar",
+      "description": "",
+      "url": "https://qendajar.itch.io/backstealthvr",
+      "image_url": "https://img.itch.zone/aW1nLzg3ODU1NDAucG5n/315x250%23c/iedJGv.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1364329"
+    },
+    {
+      "title": "3D 4 In A Row / Connect 4",
+      "author": "AwsApps",
+      "description": "The classical Connect 4 is here and it's free!",
+      "url": "https://awsapps.itch.io/4-in-a-row",
+      "image_url": "https://img.itch.zone/aW1nLzgxMzI1NzcucG5n/315x250%23c/QMpU1K.png",
+      "tags": [
+        "strategy",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Strategy",
+      "game_id": "1173333"
+    },
+    {
+      "title": "Sagan's Robocraft",
+      "author": "Fahad M",
+      "description": "Repair droid simulator",
+      "url": "https://thehaad.itch.io/sagans-robocraft",
+      "image_url": "https://img.itch.zone/aW1nLzk5MDc3MDAuZ2lm/315x250%23c/alub1%2F.gif",
+      "tags": [
+        "puzzle",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1613235"
+    },
+    {
+      "title": "Watching People Walking Simulator",
+      "author": "Gonz Tirado",
+      "description": "It is just watching people walking... but in VR",
+      "url": "https://gonztirado.itch.io/watching-people-walking-simulator",
+      "image_url": "https://img.itch.zone/aW1nLzM5NDQ1MDYucG5n/315x250%23c/qWkjgO.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "712182"
+    },
+    {
+      "title": "VR At home mini solar system",
+      "author": "DorkKing229",
+      "description": "a small environment to throw around a mini solar system",
+      "url": "https://dorkking229.itch.io/vr-at-home-mini-solar-system",
+      "image_url": "https://img.itch.zone/aW1nLzY0ODE5OTkucG5n/315x250%23c/%2FDQIBM.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1120951"
+    },
+    {
+      "title": "Prison of Four Elements (VR)",
+      "author": "Loose Bit Labs",
+      "description": "Can you restore the balance and escape the Prison?",
+      "url": "https://loose-bit-labs.itch.io/prison-of-four-elements",
+      "image_url": "https://img.itch.zone/aW1nLzE5ODk2ODU0LnBuZw==/315x250%23c/T%2FVjWt.png",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "3332281"
+    },
+    {
+      "title": "Twisted Pumping VR",
+      "author": "rburing",
+      "description": "Traverse a twisted track, but be wary of the witch!",
+      "url": "https://rburing.itch.io/twisted-pumping-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE5ODk4NTExLmpwZw==/315x250%23c/bONW7G.jpg",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "3331257"
+    },
+    {
+      "title": "DualiTower",
+      "author": "De-Panther",
+      "description": "Match opposite blocks to build a tower. Supports WebXR",
+      "url": "https://de-panther.itch.io/dualitower",
+      "image_url": "https://img.itch.zone/aW1nLzgwMDMyODUucG5n/315x250%23c/pTElmP.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1374259"
+    },
+    {
+      "title": "Circuitry 360",
+      "author": "HumberVR",
+      "description": "",
+      "url": "https://humbervr.itch.io/circuitry-360-demo",
+      "image_url": "https://img.itch.zone/aW1nLzIyNTY5OTYucG5n/315x250%23c/hCM6wp.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "446906"
+    },
+    {
+      "title": "OopisOS 3.7 - Your Friendly Neighborhood LLM Edition",
+      "author": "aedmark",
+      "description": "What will you create? Boot up and find out!",
+      "url": "https://aedmark.itch.io/oopisos",
+      "image_url": "https://img.itch.zone/aW1nLzIxNzkwNTkwLnBuZw==/315x250%23c/FocUNe.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "3642309"
+    },
+    {
+      "title": "VRshiftRSpace",
+      "author": "vrshiftrstudio",
+      "description": "A virtual reality experience",
+      "url": "https://vrshiftrstudio.itch.io/vrshiftrspace",
+      "image_url": "https://img.itch.zone/aW1nLzYzMDkxNDgucG5n/315x250%23c/WHeI7z.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1094846"
+    },
+    {
+      "title": "VR Darts",
+      "author": "mulitasoft",
+      "description": "Play darts in VR",
+      "url": "https://mulitasoft.itch.io/vr-darts",
+      "image_url": "https://img.itch.zone/aW1nLzk5MDcwODAuanBn/315x250%23c/cR6gc2.jpg",
+      "tags": [
+        "web-vr",
+        "vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "1669628"
+    },
+    {
+      "title": "Danny's Descent",
+      "author": "CharlieBehan",
+      "description": "Pedal through the looping halls to find Room 237 - Hand tracking VR horror game",
+      "url": "https://charliebehan.itch.io/dannys-descent",
+      "image_url": "https://img.itch.zone/aW1nLzEzODQyOTcyLmdpZg==/315x250%23c/YCudhr.gif",
+      "tags": [
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "2336477"
+    },
+    {
+      "title": "Planters v Zombies",
+      "author": "itismecce",
+      "description": "",
+      "url": "https://itismecce.itch.io/planters-v-zombies",
+      "image_url": "https://img.itch.zone/aW1nLzExOTA3OTMxLnBuZw==/315x250%23c/7h0q%2Fs.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2024731"
+    },
+    {
+      "title": "There Is Nothing In This Endless Expanse.",
+      "author": "stvr",
+      "description": "A first-person futility simulator.",
+      "url": "https://stvr.itch.io/there-is-nothing-in-this-endless-expanse",
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjQwMzAvOTUxNzMucG5n/315x250%23c/iNg9nQ.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "24030"
+    },
+    {
+      "title": "Blind Sight",
+      "author": "ly.s15",
+      "description": "VR Assymetrical game",
+      "url": "https://lys15.itch.io/laval",
+      "image_url": "https://img.itch.zone/aW1nLzE1NzAyMjMyLnBuZw==/315x250%23c/K4dN58.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "2633526"
+    },
+    {
+      "title": "Nebulosus Reverie",
+      "author": "Ray 蕭",
+      "description": "A VR experience in a dreamlike world. (Also has WebGL version.)",
+      "url": "https://raddishradish.itch.io/nebulosus-reverie",
+      "image_url": "https://img.itch.zone/aW1nLzE1NDEzOTE4LnBuZw==/315x250%23c/1XydqW.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2587015"
+    },
+    {
+      "title": "Solar System",
+      "author": "sat7ag",
+      "description": "",
+      "url": "https://sat7ag.itch.io/solar-system",
+      "image_url": "https://img.itch.zone/aW1nLzY0NDkwODMucG5n/315x250%23c/kkmAPH.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1115839"
+    },
+    {
+      "title": "TechDefend",
+      "author": "TechDefend",
+      "description": "Consigue Chips, pon torretas y defiende tu nexo de las malvadas ordas enemigas, todo en la palma de tus manos.",
+      "url": "https://techdefend.itch.io/techdefend",
+      "image_url": "https://img.itch.zone/aW1nLzYwMjA2MDMucG5n/315x250%23c/s5MQ2%2F.png",
+      "tags": [
+        "strategy",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Strategy",
+      "game_id": "997472"
+    },
+    {
+      "title": "VR-The Thanos Principle",
+      "author": "Eyetengu",
+      "description": "A fun third project exploring the potential of VR",
+      "url": "https://eyetengu.itch.io/vr-the-thanos-principle",
+      "image_url": "https://img.itch.zone/aW1nLzEwMzk3NjQ3LnBuZw==/315x250%23c/%2B06YIS.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1768302"
+    },
+    {
+      "title": "WebXR Exporter Test 000",
+      "author": "Matthew.Wood",
+      "description": "",
+      "url": "https://matthewwood.itch.io/webxr000",
+      "image_url": "https://img.itch.zone/aW1nLzQ5NzQ5NDUuanBn/315x250%23c/%2FHuY8U.jpg",
+      "tags": [
+        "simulation",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "883206"
+    },
+    {
+      "title": "Upwardly",
+      "author": "yinchy",
+      "description": "Take it to the top!",
+      "url": "https://yinchy.itch.io/upwardly",
+      "image_url": "https://img.itch.zone/aW1nLzU0ODMwMjAuanBn/315x250%23c/9YsF%2Fn.jpg",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "966317"
+    },
+    {
+      "title": "Exoplanet Excavator",
+      "author": "m₂",
+      "description": "",
+      "url": "https://msub2.itch.io/exoplanet-excavator",
+      "image_url": "https://img.itch.zone/aW1nLzUwMzIwOTAucG5n/315x250%23c/PgPqR5.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "891080"
+    },
+    {
+      "title": "CarXR",
+      "author": "loterion",
+      "description": "VR mini-car driving test with webXR controls (VR headset with controls required)",
+      "url": "https://loterion.itch.io/car-xr",
+      "image_url": "https://img.itch.zone/aW1nLzQ3NDg5NDIucG5n/315x250%23c/smaAbK.png",
+      "tags": [
+        "webxr",
+        "web-vr",
+        "racing"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Racing",
+      "game_id": "836271"
+    },
+    {
+      "title": "Solar System WebXR",
+      "author": "De-Panther",
+      "description": "Solar System toy in WebXR",
+      "url": "https://de-panther.itch.io/solar-system-webxr",
+      "image_url": "https://img.itch.zone/aW1nLzExNzQ2Mzg4LnBuZw==/315x250%23c/YHYkzI.png",
+      "tags": [
+        "simulation",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1998174"
+    },
+    {
+      "title": "VR Minigolf",
+      "author": "mulitasoft",
+      "description": "",
+      "url": "https://mulitasoft.itch.io/vr-minigolf",
+      "image_url": "https://img.itch.zone/aW1nLzEwMDgwNjA4LnBuZw==/315x250%23c/LmyLFG.png",
+      "tags": [
+        "web-vr",
+        "vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "1699816"
+    },
+    {
+      "title": "MINIMUM VIABLE RHYTHM GAME",
+      "author": "emu",
+      "description": "",
+      "url": "https://emuuuu.itch.io/minimum-viable-rhythm-game",
+      "image_url": "https://img.itch.zone/aW1nLzgwMTk2NzQucG5n/315x250%23c/rDVcN9.png",
+      "tags": [
+        "rhythm",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Rhythm",
+      "game_id": "1377164"
+    },
+    {
+      "title": "20GamesChallenge.01-Breakout",
+      "author": "lampGuitar",
+      "description": "",
+      "url": "https://lampguitar.itch.io/lampuitars-20games-challenge",
+      "image_url": "https://img.itch.zone/aW1nLzIyODkwMjcyLnBuZw==/315x250%23c/fWV8jV.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Linux"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "3672949"
+    },
+    {
+      "title": "Exolon VR",
+      "author": "Stephen Smith",
+      "description": "Play Exolon as if you were really there",
+      "url": "https://stephensmith.itch.io/exolon-vr",
+      "image_url": "https://img.itch.zone/aW1nLzkwNjIyOTIucG5n/315x250%23c/sCsVlv.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1553172"
+    },
+    {
+      "title": "Grab & Throw",
+      "author": "Pipo",
+      "description": "Throw those watermelons",
+      "url": "https://signorpipo.itch.io/grab-throw-wonderland-engine",
+      "image_url": "https://img.itch.zone/aW1nLzU4NjY0MTQucG5n/315x250%23c/9WvWsu.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1026562"
+    },
+    {
+      "title": "Arena of Might 7DRL2022",
+      "author": "ibGoge",
+      "description": "VR Gridder Rogue Like",
+      "url": "https://ibgoge.itch.io/arena-of-might",
+      "image_url": "https://img.itch.zone/aW1nLzgzOTkzMjEuZ2lm/315x250%23c/HP8XJP.gif",
+      "tags": [
+        "role-playing",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Role Playing",
+      "game_id": "1439501"
+    },
+    {
+      "title": "STARSHIPS",
+      "author": "UnseenSeven",
+      "description": "BLACK EAGLE",
+      "url": "https://unseenseven.itch.io/starships",
+      "image_url": "https://img.itch.zone/aW1nLzIxMjIyNjIuanBn/315x250%23c/HxyHJd.jpg",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "425178"
+    },
+    {
+      "title": "Rising Seas",
+      "author": "Sorskoot",
+      "description": "Polar Bear Rescue",
+      "url": "https://sorskoot.itch.io/rising-seas",
+      "image_url": "https://img.itch.zone/aW1nLzU0OTA4NDcuanBn/315x250%23c/PL%2BtBD.jpg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "967449"
+    },
+    {
+      "title": "Foodification: A VR experience",
+      "author": "angstigone",
+      "description": "VR storytelling of the Foodification project",
+      "url": "https://angstigone.itch.io/foodification-a-vr-experience",
+      "image_url": "https://img.itch.zone/aW1nLzkwNzk1NzgucG5n/315x250%23c/MzzoNo.png",
+      "tags": [
+        "interactive-fiction",
+        "web-vr",
+        "vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Interactive Fiction",
+      "game_id": "1556062"
+    },
+    {
+      "title": "Pixel man remastered",
+      "author": "Bloxtinvr168",
+      "description": "This is vr game",
+      "url": "https://bloxtinvr168.itch.io/pixel-man-remastered",
+      "image_url": "https://img.itch.zone/aW1nLzEwOTA3Mjc2LnBuZw==/315x250%23c/OR5PW3.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "1857180"
+    },
+    {
+      "title": "XYVIO",
+      "author": "Lost Connection",
+      "description": "A mysterious strategy game with an alien interface",
+      "url": "https://lost-connection.itch.io/xyvio",
+      "image_url": "https://img.itch.zone/aW1nLzE5MTA5ODcxLnBuZw==/315x250%23c/W54QDX.png",
+      "tags": [
+        "mobile-vr",
+        "strategy",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Strategy",
+      "game_id": "3190530"
+    },
+    {
+      "title": "Squadron: Mercenaries",
+      "author": "ibGoge",
+      "description": "Space combat simulator and mercenary team management",
+      "url": "https://ibgoge.itch.io/wing-mercenaries",
+      "image_url": "https://img.itch.zone/aW1nLzE1NDg2MTA5LnBuZw==/315x250%23c/0kJZwc.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2563679"
+    },
+    {
+      "title": "Skip Rope VR (WebXR)",
+      "author": "my2iu",
+      "description": "",
+      "url": "https://my2iu.itch.io/skip-rope-vr",
+      "image_url": "https://img.itch.zone/aW1nLzM0MjUxNTgucG5n/315x250%23c/ovINP7.png",
+      "tags": [
+        "game",
+        "webxr",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "639917"
+    },
+    {
+      "title": "Sequencing Drums VR (WebXR)",
+      "author": "yuripourre",
+      "description": "Experience a fun and nostalgic take on the Simon game in VR!",
+      "url": "https://yuripourre.itch.io/sequencing-drums",
+      "image_url": "https://img.itch.zone/aW1nLzExNTU3NTg5LnBuZw==/315x250%23c/0qZiau.png",
+      "tags": [
+        "webxr",
+        "puzzle",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1933152"
+    },
+    {
+      "title": "Chiller",
+      "author": "blonk",
+      "description": "Is it just me or is it cold outside?",
+      "url": "https://blonk.itch.io/chiller",
+      "image_url": "https://img.itch.zone/aW1nLzM3NDg5ODMuanBn/315x250%23c/4Kloxa.jpg",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "681843"
+    },
+    {
+      "title": "The Case Of Food",
+      "author": "shadowlordgaming",
+      "description": "When He's Hungry You Shouldn't Be Close",
+      "url": "https://shadowlordgaming.itch.io/the-case-of-food",
+      "image_url": "https://img.itch.zone/aW1nLzE5ODY1NjU1LnBuZw==/315x250%23c/QqUdXM.png",
+      "tags": [
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "3327111"
+    },
+    {
+      "title": "Parkour Spiral",
+      "author": "nacherica",
+      "description": "",
+      "url": "https://nacherica.itch.io/parkourspiral",
+      "image_url": "https://img.itch.zone/aW1nLzE3ODMwNzQ3LmpwZw==/315x250%23c/pFGwsl.jpg",
+      "tags": [
+        "web-vr",
+        "platformer"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Platformer",
+      "game_id": "2980773"
+    },
+    {
+      "title": "Napstablook's House WebXR",
+      "author": "DoctorBambi",
+      "description": "Napstablooks humble abode in WebXR",
+      "url": "https://doctorbambi.itch.io/napstablookshouse",
+      "image_url": "https://img.itch.zone/aW1nLzM3NDM3NDMucG5n/315x250%23c/C5IRV5.png",
+      "tags": [
+        "interactive-fiction",
+        "webxr",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Interactive Fiction",
+      "game_id": "681095"
+    },
+    {
+      "title": "Above Clouds VR",
+      "author": "yuripourre",
+      "description": "In a future where machines take over the universe, you must fight drones before they kill you.",
+      "url": "https://yuripourre.itch.io/above-clouds",
+      "image_url": "https://img.itch.zone/aW1nLzkyODY3MDYucG5n/315x250%23c/WuQxRB.png",
+      "tags": [
+        "action",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "1588654"
+    },
+    {
+      "title": "Explore",
+      "author": "ZakBrown",
+      "description": "Educational Virtual Reality Space Experience",
+      "url": "https://zakbrown.itch.io/explore-educational-virtual-reality-space-experience",
+      "image_url": "https://img.itch.zone/aW1nLzE2NTM2MTc5LmpwZw==/315x250%23c/aDFovz.jpg",
+      "tags": [
+        "educational",
+        "web-vr",
+        "mobile-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Android"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "2771508"
+    },
+    {
+      "title": "Whack-A-Duck VR",
+      "author": "Zayd Carelse",
+      "description": "A WebGL build of a casual VR game",
+      "url": "https://kelthuzayd.itch.io/whack-a-duck-vr",
+      "image_url": "https://img.itch.zone/aW1nLzUwMjU2NDMucG5n/315x250%23c/JQcpuP.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "890856"
+    },
+    {
+      "title": "MonkeArchives",
+      "author": "GeoCPU",
+      "description": "",
+      "url": "https://geocpu.itch.io/monkearchives",
+      "image_url": "https://img.itch.zone/aW1nLzIzMTI1OTMwLmpwZw==/315x250%23c/qNZXz8.jpg",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "3876014"
+    },
+    {
+      "title": "Niagara's VR Art Gallery",
+      "author": "Hender",
+      "description": "A Virtual Gallery of Artists from Niagara",
+      "url": "https://hender99.itch.io/niagaras-vr-art-gallery",
+      "image_url": "https://img.itch.zone/aW1nLzc4NjUwNTcucG5n/315x250%23c/tZOtWP.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser",
+        "Windows"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1335247"
+    },
+    {
+      "title": "Backyard Basketball VR (WebXR)",
+      "author": "yuripourre",
+      "description": "Dive into the world of basketball from the comfort of your home with Backyard Basketball VR",
+      "url": "https://yuripourre.itch.io/backyard-basketball",
+      "image_url": "https://img.itch.zone/aW1nLzE0NTQ2ODM1LmpwZw==/315x250%23c/m253fB.jpg",
+      "tags": [
+        "webxr",
+        "web-vr",
+        "vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "2453835"
+    },
+    {
+      "title": "think  ̶o̶u̶t̶s̶i̶d̶e̶ with boxes",
+      "author": "gameshire98",
+      "description": "A puzzle WebXR/browser game based on geometry and projection",
+      "url": "https://gameshire98.itch.io/think-with-boxes",
+      "image_url": "https://img.itch.zone/aW1nLzg3ODc3NjYucG5n/315x250%23c/Vq1F%2Bv.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1507711"
+    },
+    {
+      "title": "rainbow broadcast (VR)",
+      "author": "Wild Opus Games",
+      "description": "Keep it rainbow",
+      "url": "https://wild-opus.itch.io/tv",
+      "image_url": "https://img.itch.zone/aW1nLzY0MzI4MjIucG5n/315x250%23c/tzNpgz.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1111128"
+    },
+    {
+      "title": "The Supersoldier",
+      "author": "Big Small Games",
+      "description": "A game about a hero that wakes up from cryosleep and injects themself with serums to fight Greek monsters.",
+      "url": "https://big-small-games.itch.io/the-supersoldier",
+      "image_url": "https://img.itch.zone/aW1nLzE2OTczMTM2LnBuZw==/315x250%23c/tGyvSN.png",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2840567"
+    },
+    {
+      "title": "VR Halloween Haunted House 2023",
+      "author": "VR Me Up",
+      "description": "Do you dare to enter the haunted house and discover the secrets that lie within?",
+      "url": "https://vrmeup.itch.io/halloween23",
+      "image_url": "https://img.itch.zone/aW1nLzEzODM0MDEwLnBuZw==/315x250%23c/FN9Vg9.png",
+      "tags": [
+        "adventure",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "2335089"
+    },
+    {
+      "title": "Walking Simulator VR",
+      "author": "jayden8923",
+      "description": "vr",
+      "url": "https://jayden8923.itch.io/walking-simulator-vr",
+      "image_url": "",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "750157"
+    },
+    {
+      "title": "SKY RIDER",
+      "author": "UnseenSeven",
+      "description": "Black Eagle",
+      "url": "https://unseenseven.itch.io/sky-rider",
+      "image_url": "https://img.itch.zone/aW1nLzIwOTc2MzYuanBlZw==/315x250%23c/D1c3lj.jpeg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "420905"
+    },
+    {
+      "title": "PPlayground - Wonderland Engine",
+      "author": "Pipo",
+      "description": "Throw those wondermelons",
+      "url": "https://signorpipo.itch.io/wle-pplayground",
+      "image_url": "https://img.itch.zone/aW1nLzE4NjA5NDA4LnBuZw==/315x250%23c/icXtmt.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1972609"
+    },
+    {
+      "title": "OWNLY 1",
+      "author": "microchipgnu",
+      "description": "Only one owns",
+      "url": "https://microchipgnu.itch.io/ownly-1",
+      "image_url": "https://img.itch.zone/aW1nLzU3NzM3NTYucG5n/315x250%23c/XAYjE2.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1013510"
+    },
+    {
+      "title": "PhoVRcome",
+      "author": "Mustafa Battaloglu",
+      "description": "Phobia overcoming simulatiıon with VR",
+      "url": "https://mbattaloglu.itch.io/phovrcome",
+      "image_url": "https://img.itch.zone/aW1nLzEyNjIxNTQ3LnBuZw==/315x250%23c/pN5CLD.png",
+      "tags": [
+        "simulation",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2140507"
+    },
+    {
+      "title": "De-Evil-ery",
+      "author": "Pipo",
+      "description": "That stupid Prince Ugo!",
+      "url": "https://signorpipo.itch.io/de-evil-ery",
+      "image_url": "https://img.itch.zone/aW1nLzEyMDQ1MDIzLmpwZw==/315x250%23c/KKysdy.jpg",
+      "tags": [
+        "action",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Action",
+      "game_id": "2047760"
+    },
+    {
+      "title": "Apu game",
+      "author": "Nu Studio",
+      "description": "Apu game. Protect the mountain treasures from the looters.",
+      "url": "https://nustudio.itch.io/apu-game",
+      "image_url": "https://img.itch.zone/aW1nLzc0ODc4ODcucG5n/315x250%23c/MV9KOa.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1286823"
+    },
+    {
+      "title": "Zoorba: The Window Cleaning Robot",
+      "author": "De-Panther",
+      "description": "Take on the role of an operator controlling \"Zoorba\", the cutting-edge window-cleaning robot.",
+      "url": "https://de-panther.itch.io/zoorba-the-window-cleaning-robot",
+      "image_url": "https://img.itch.zone/aW1nLzE0ODM5NjcyLnBuZw==/315x250%23c/OpxXJg.png",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "2498196"
+    },
+    {
+      "title": "LobbyDemo",
+      "author": "MetaGems",
+      "description": "Play to earn futuristic game",
+      "url": "https://metagems.itch.io/lobby",
+      "image_url": "https://img.itch.zone/aW1nLzc3NDA5NTAucG5n/315x250%23c/2XtFa8.png",
+      "tags": [
+        "role-playing",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Role Playing",
+      "game_id": "1330962"
+    },
+    {
+      "title": "HyperMaze",
+      "author": "ayoayomide",
+      "description": "Survive the maze in VR",
+      "url": "https://ayoayomide.itch.io/hypermaze",
+      "image_url": "https://img.itch.zone/aW1nLzExOTYzNzI3LnBuZw==/315x250%23c/UE4GCP.png",
+      "tags": [
+        "survival",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Survival",
+      "game_id": "2034171"
+    },
+    {
+      "title": "PushPattern WebXR",
+      "author": "5imon",
+      "description": "WebXR game - HMD and Controllers required - touch the correct buttons to score points!",
+      "url": "https://5imon.itch.io/pushpatternvr",
+      "image_url": "https://img.itch.zone/aW1nLzEzOTE0MjIxLmpwZw==/315x250%23c/TLKeQO.jpg",
+      "tags": [
+        "webxr",
+        "web-vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "2339686"
+    },
+    {
+      "title": "Cobblestone Grime: Arena of Might",
+      "author": "ibGoge",
+      "description": "VR Gridder Rogue Like",
+      "url": "https://ibgoge.itch.io/cobblestone-grime-arena-of-might",
+      "image_url": "https://img.itch.zone/aW1nLzEwMTA4NDM3LmdpZg==/315x250%23c/WYcMP0.gif",
+      "tags": [
+        "role-playing",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Role Playing",
+      "game_id": "1716032"
+    },
+    {
+      "title": "VR_Mini Golfy",
+      "author": "Chanoknon",
+      "description": "VR Mini Golfy WebGL",
+      "url": "https://chanoknon.itch.io/vr-mini-golfy",
+      "image_url": "https://img.itch.zone/aW1nLzExNjY4NjE2LnBuZw==/315x250%23c/VeoW6G.png",
+      "tags": [
+        "web-vr",
+        "vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "1982215"
+    },
+    {
+      "title": "Sketchy",
+      "author": "Pipo",
+      "description": "Spawn those cubes in WebVR",
+      "url": "https://signorpipo.itch.io/sketchy",
+      "image_url": "https://img.itch.zone/aW1nLzYxNzU0NzAucG5n/315x250%23c/oGvre8.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1066592"
+    },
+    {
+      "title": "Maze Runner",
+      "author": "hacknick",
+      "description": "",
+      "url": "https://hacknick.itch.io/maze-runner",
+      "image_url": "https://img.itch.zone/aW1nLzEzMzE3ODM0LnBuZw==/315x250%23c/uWhRjc.png",
+      "tags": [
+        "web-vr",
+        "platformer"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Platformer",
+      "game_id": "2247537"
+    },
+    {
+      "title": "Writer's Soul",
+      "author": "Remi.Plus",
+      "description": "",
+      "url": "https://remiplus.itch.io/the-writers-room",
+      "image_url": "https://img.itch.zone/aW1nLzYwMDk1ODkuanBn/315x250%23c/sQcmE6.jpg",
+      "tags": [
+        "web-vr",
+        "visual-novel"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "1006797"
+    },
+    {
+      "title": "SAPPHIRE SKY",
+      "author": "UnseenSeven",
+      "description": "",
+      "url": "https://unseenseven.itch.io/sapphire-sky",
+      "image_url": "https://img.itch.zone/aW1nLzIxMTQyMTguanBn/315x250%23c/QoNdTg.jpg",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "423671"
+    },
+    {
+      "title": "3Di_Heavy_Cruiser_Demo",
+      "author": "3Di_LLC",
+      "description": "For use with Perspectacles",
+      "url": "https://3di-llc.itch.io/3di-heavy-cruiser-demo",
+      "image_url": "https://img.itch.zone/aW1nLzg5Mzk1MzUucG5n/315x250%23c/9WYD3B.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1532728"
+    },
+    {
+      "title": "Mescolato",
+      "author": "Pipo",
+      "description": "Clear your mind",
+      "url": "https://signorpipo.itch.io/mescolato",
+      "image_url": "https://img.itch.zone/aW1nLzY0NjQ5MzMucG5n/315x250%23c/6myyzU.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1118177"
+    },
+    {
+      "title": "SerVR",
+      "author": "Downey",
+      "description": "",
+      "url": "https://downey.itch.io/servr",
+      "image_url": "https://img.itch.zone/aW1nLzkwNTk1NzkucG5n/315x250%23c/23ejBW.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1552703"
+    },
+    {
+      "title": "VR Cambass Cultural District",
+      "author": "Artnewyork2022",
+      "description": "To PC, Mac, Android and iPhone",
+      "url": "https://artnewyork2022.itch.io/vr-cambass-cultural-district",
+      "image_url": "https://img.itch.zone/aW1nLzEwOTU3MDM2LmpwZw==/315x250%23c/wJd1f6.jpg",
+      "tags": [
+        "educational",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "1677729"
+    },
+    {
+      "title": "Skeeball-A-Mole",
+      "author": "yeaman17",
+      "description": "Don't let the moles get into the Skeeball Machine!",
+      "url": "https://yeaman17.itch.io/skeeball-a-mole",
+      "image_url": "https://img.itch.zone/aW1nLzEzOTI3NzAxLnBuZw==/315x250%23c/vdpW1V.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2351231"
+    },
+    {
+      "title": "\"BLACK EAGLE\" DEMO",
+      "author": "UnseenSeven",
+      "description": "Black Eagle",
+      "url": "https://unseenseven.itch.io/black-eagle-demo",
+      "image_url": "https://img.itch.zone/aW1nLzIyNDA3ODguanBlZw==/315x250%23c/0uVN%2F3.jpeg",
+      "tags": [
+        "strategy",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Strategy",
+      "game_id": "444639"
+    },
+    {
+      "title": "xmas explosions",
+      "author": "nkast",
+      "description": "",
+      "url": "https://nkast.itch.io/xmas-explosions",
+      "image_url": "https://img.itch.zone/aW1nLzE4OTQ2NTc3LnBuZw==/315x250%23c/5pC31X.png",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "3170706"
+    },
+    {
+      "title": "Ring Toss VR",
+      "author": "m₂",
+      "description": "Toss the rings onto the pegs! That's literally it!",
+      "url": "https://msub2.itch.io/ring-toss-vr",
+      "image_url": "https://img.itch.zone/aW1nLzEzOTM4MTY4LnBuZw==/315x250%23c/LOijEX.png",
+      "tags": [
+        "web-vr",
+        "vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "2352864"
+    },
+    {
+      "title": "PRGG 3D Virtual Tour Campus FGE, FB, dan FMIPA",
+      "author": "azkalazkiya",
+      "description": "",
+      "url": "https://azkalazkiya.itch.io/prgg-3d-virtual-tour-campus-kel22",
+      "image_url": "https://img.itch.zone/aW1nLzEwODE4NTkzLnBuZw==/315x250%23c/74cNU5.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "1843506"
+    },
+    {
+      "title": "Hurdle Jump ULTRA",
+      "author": "Zayd Carelse",
+      "description": "A running game prototype",
+      "url": "https://kelthuzayd.itch.io/hurdle-jump-ultra",
+      "image_url": "https://img.itch.zone/aW1nLzUxNDE1NzkucG5n/315x250%23c/9NLbjp.png",
+      "tags": [
+        "web-vr",
+        "sports"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Sports",
+      "game_id": "909850"
+    },
+    {
+      "title": "El dolor antecedido por la muerte",
+      "author": "Fishcy_Museo",
+      "description": "Proyecto museográfico virtual dedicado a la obra de la artista Ivonne Pérez \"Fishcy\"",
+      "url": "https://fishcy-museo.itch.io/el-dolor-antecedido-por-la-muerte",
+      "image_url": "https://img.itch.zone/aW1nLzYxODIyMTQuanBn/315x250%23c/Z%2FcvcG.jpg",
+      "tags": [
+        "simulation",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Simulation",
+      "game_id": "1077933"
+    },
+    {
+      "title": "3D Crack the Pass",
+      "author": "AwsApps",
+      "description": "FREE WEB DEMO. Find the secret combination!",
+      "url": "https://awsapps.itch.io/3d-crack-the-pass",
+      "image_url": "https://img.itch.zone/aW1nLzgyOTE0OTcuZ2lm/315x250%23c/TTjZIX.gif",
+      "tags": [
+        "puzzle",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Puzzle",
+      "game_id": "1422968"
+    },
+    {
+      "title": "Sir, please, do not press that button!",
+      "author": "Pipo",
+      "description": "Why do you want to press it anyway?!",
+      "url": "https://signorpipo.itch.io/sir-please",
+      "image_url": "https://img.itch.zone/aW1nLzE3NjE3MDE1LnBuZw==/315x250%23c/C2Y1eF.png",
+      "tags": [
+        "web-vr",
+        "game"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "2925635"
+    },
+    {
+      "title": "8-Bricks",
+      "author": "YourVRExperience",
+      "description": "Your conscience has been uploaded to a digital prison. Will you be able to break free?",
+      "url": "https://yourvrexperience.itch.io/8-bricks",
+      "image_url": "https://img.itch.zone/aW1nLzUyNDU4NjEucG5n/315x250%23c/nS%2FjqO.png",
+      "tags": [
+        "adventure",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Adventure",
+      "game_id": "927451"
+    },
+    {
+      "title": "In Dreams",
+      "author": "Ira Birch",
+      "description": "",
+      "url": "https://irabirch.itch.io/in-dreams",
+      "image_url": "https://img.itch.zone/aW1nLzU2NjExNjQucG5n/315x250%23c/nSXE1Q.png",
+      "tags": [
+        "interactive-fiction",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Interactive Fiction",
+      "game_id": "994976"
+    },
+    {
+      "title": "Museum of Emotions v1.0",
+      "author": "torukun",
+      "description": "Museum where you can learn about Emotions and Mental Health.",
+      "url": "https://torukun.itch.io/museum-of-emotions-v1",
+      "image_url": "https://img.itch.zone/aW1nLzkzMTU5NTMucG5n/315x250%23c/sXGTHG.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "1593250"
+    },
+    {
+      "title": "EdgeApartment",
+      "author": "VeinSyct",
+      "description": "The Edge Apartment",
+      "url": "https://veinsyct.itch.io/edgeapartment",
+      "image_url": "https://img.itch.zone/aW1nLzE0NTgxOTk2LmpwZw==/315x250%23c/24XwHZ.jpg",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "2458794"
+    },
+    {
+      "title": "VR Art Exhibition_Anatomy Sketches",
+      "author": "ZAK",
+      "description": "",
+      "url": "https://studio-zak.itch.io/vr-art-exhibition01",
+      "image_url": "https://img.itch.zone/aW1nLzc4MzEyODcuanBn/315x250%23c/m8spxB.jpg",
+      "tags": [
+        "visual-novel",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Visual Novel",
+      "game_id": "1345551"
+    },
+    {
+      "title": "Pristine",
+      "author": "vintch",
+      "description": "​Pristine is a 360-degree experience with an environmental purpose. It works on desktop, mobile, or VR browsers.",
+      "url": "https://vintch.itch.io/pristine",
+      "image_url": "https://img.itch.zone/aW1nLzI1NzA0MDEucG5n/315x250%23c/0lxQiP.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "497210"
+    },
+    {
+      "title": "Jablines Archéo VR",
+      "author": "ναℓ",
+      "description": "La fouille archéologique de « la Pente de Croupeton » comme si vous y étiez !",
+      "url": "https://vcotta.itch.io/jablines-archeo-vr",
+      "image_url": "https://img.itch.zone/aW1nLzE5MzczMTY3LnBuZw==/315x250%23c/uQJrEK.png",
+      "tags": [
+        "educational",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "3244080"
+    },
+    {
+      "title": "ClinicalVR Zoo Demo",
+      "author": "LargeKowalski",
+      "description": "Experience an automatic virtual zoo trolley!",
+      "url": "https://largekowalski.itch.io/clinicalvr-zoo-demo",
+      "image_url": "https://img.itch.zone/aW1nLzkyMzA1ODcucG5n/315x250%23c/ZXktxu.png",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1580197"
+    },
+    {
+      "title": "VR Arcade Space Shooter - WebXR",
+      "author": "Colinzam",
+      "description": "",
+      "url": "https://colinzam.itch.io/vr-arcade-space-shooter",
+      "image_url": "https://img.itch.zone/aW1nLzE2MjY3ODI5LnBuZw==/315x250%23c/wt6a%2Fs.png",
+      "tags": [
+        "webxr",
+        "shooter",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Shooter",
+      "game_id": "2713801"
+    },
+    {
+      "title": "JeannotVR_V1",
+      "author": "Cpt. Lulu",
+      "description": "A VR Picture gallery of Jeannot the dog",
+      "url": "https://cpt-lulu.itch.io/jeannotvr-v1",
+      "image_url": "https://img.itch.zone/aW1nLzk0MTMwNTQuanBn/315x250%23c/tin7eq.jpg",
+      "tags": [
+        "game",
+        "web-vr",
+        "vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Game",
+      "game_id": "1607447"
+    },
+    {
+      "title": "Martinitoren",
+      "author": "Roktupus",
+      "description": "Martinitoren AR-VR Tour",
+      "url": "https://roktupus.itch.io/martinitoren",
+      "image_url": "https://img.itch.zone/aW1nLzI5MTkzNDkucG5n/315x250%23c/LSEWP4.png",
+      "tags": [
+        "educational",
+        "web-vr"
+      ],
+      "framework": "WebVR/WebXR",
+      "source": "itch.io",
+      "platforms": [
+        "Web/Browser"
+      ],
+      "price": "Free",
+      "genre": "Educational",
+      "game_id": "556942"
+    }
+  ]
+}
