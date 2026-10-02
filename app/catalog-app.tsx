@@ -184,8 +184,13 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
 
       <section id="top" className="hero-shell">
         <div className="hero-copy">
-          <p className="eyebrow"><Sparkles size={15} /> Pick it. Launch it. Step inside.</p>
-          <h1>Your next world is one click away.</h1>
+          <p className="eyebrow"><Sparkles size={15} /> Club Expo VR Arcade</p>
+          <h1 className="club-hero-name">
+            <span>Software</span>
+            <span>Engineering</span>
+            <span>Club</span>
+          </h1>
+          <p className="hero-callout">Your next world is one click away.</p>
           <p className="hero-sub">Made for the headset. No installs, no endless scrolling—just choose a vibe and play.</p>
 
           <label className="search-box">
