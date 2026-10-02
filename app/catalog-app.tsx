@@ -3,14 +3,23 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowUpRight,
+  ChevronLeft,
+  ChevronRight,
+  Compass,
+  Crosshair,
   Dices,
   ExternalLink,
   Gamepad2,
   Heart,
   Info,
+  Paintbrush,
+  Puzzle,
   Search,
   Sparkles,
   Star,
+  UsersRound,
+  Zap,
+  type LucideIcon,
 } from "lucide-react";
 import {
   Sheet,
@@ -36,18 +45,18 @@ type Game = {
 };
 
 type Category = {
-  icon: string;
+  icon: LucideIcon;
   label: string;
   terms: string[];
 };
 
 const categories: Category[] = [
-  { icon: "⚡", label: "Quick play", terms: ["game", "arcade", "sports", "casual"] },
-  { icon: "🎯", label: "Action", terms: ["action", "shooter", "survival", "fighting"] },
-  { icon: "🧩", label: "Puzzle", terms: ["puzzle", "escape", "maze", "strategy"] },
-  { icon: "🌌", label: "Explore", terms: ["adventure", "exploration", "tour", "space"] },
-  { icon: "🎨", label: "Create", terms: ["art", "music", "creative", "drawing"] },
-  { icon: "👥", label: "Social", terms: ["social", "multiplayer", "interactive"] },
+  { icon: Zap, label: "Quick play", terms: ["game", "arcade", "sports", "casual"] },
+  { icon: Crosshair, label: "Action", terms: ["action", "shooter", "survival", "fighting"] },
+  { icon: Puzzle, label: "Puzzle", terms: ["puzzle", "escape", "maze", "strategy"] },
+  { icon: Compass, label: "Explore", terms: ["adventure", "exploration", "tour", "space"] },
+  { icon: Paintbrush, label: "Create", terms: ["art", "music", "creative", "drawing"] },
+  { icon: UsersRound, label: "Social", terms: ["social", "multiplayer", "interactive"] },
 ];
 
 const featuredTitles = ["Moon Rider", "Barista Express", "A-Painter", "VRBlocks"];
@@ -80,6 +89,8 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
   const [visibleCount, setVisibleCount] = useState(24);
   const [favorites, setFavorites] = useState<string[]>([]);
   const [favoritesOnly, setFavoritesOnly] = useState(false);
+  const [featuredIndex, setFeaturedIndex] = useState(0);
+  const [featuredPaused, setFeaturedPaused] = useState(false);
   const resultsRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -90,10 +101,24 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
     }
   }, []);
 
-  const featured = useMemo(
-    () => games.find((game) => featuredTitles.includes(game.title)) ?? games[0],
+  const featuredGames = useMemo(
+    () => featuredTitles.map((title) => games.find((game) => game.title === title)).filter((game): game is Game => Boolean(game)),
     [games],
   );
+
+  useEffect(() => {
+    if (featuredPaused || featuredGames.length < 2 || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const timer = window.setInterval(
+      () => setFeaturedIndex((index) => (index + 1) % featuredGames.length),
+      6500,
+    );
+    return () => window.clearInterval(timer);
+  }, [featuredGames.length, featuredPaused]);
+
+  function moveFeatured(direction: number) {
+    setFeaturedPaused(true);
+    setFeaturedIndex((index) => (index + direction + featuredGames.length) % featuredGames.length);
+  }
 
   const results = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -180,20 +205,59 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
           </div>
         </div>
 
-        <button type="button" className="featured-card" onClick={() => setSelected(featured)} aria-label={`See details for ${featured.title}`}>
-          <GameImage game={featured} eager />
-          <span className="featured-shade" />
-          <span className="featured-badge">Tonight&apos;s featured world</span>
-          <span className="featured-copy">
-            <span className="play-orb" aria-hidden="true">▶</span>
-            <span>
-              <small>{featured.tags.slice(0, 2).join(" · ")}</small>
-              <strong>{featured.title}</strong>
-              <em>by {featured.author}</em>
-            </span>
-            <span className="featured-arrow"><ArrowUpRight /></span>
-          </span>
-        </button>
+        <div
+          className="featured-carousel"
+          onMouseEnter={() => setFeaturedPaused(true)}
+          onMouseLeave={() => setFeaturedPaused(false)}
+          onFocusCapture={() => setFeaturedPaused(true)}
+          onBlurCapture={() => setFeaturedPaused(false)}
+          onKeyDown={(event) => {
+            if (event.key === "ArrowLeft") moveFeatured(-1);
+            if (event.key === "ArrowRight") moveFeatured(1);
+          }}
+          aria-label="Featured VR worlds"
+          aria-roledescription="carousel"
+        >
+          <div className="featured-viewport">
+            <div className="featured-track" style={{ transform: `translateX(-${featuredIndex * 100}%)` }}>
+            {featuredGames.map((featured, index) => (
+              <div className="featured-slide" key={gameKey(featured)} aria-hidden={index !== featuredIndex}>
+                <button type="button" tabIndex={index === featuredIndex ? 0 : -1} className="featured-card" onClick={() => setSelected(featured)} aria-label={`See details for ${featured.title}`}>
+                  <GameImage game={featured} eager={index === 0} />
+                  <span className="featured-shade" />
+                  <span className="featured-badge">Featured world</span>
+                  <span className="featured-copy">
+                    <span className="play-orb" aria-hidden="true">▶</span>
+                    <span>
+                      <small>{featured.tags.slice(0, 2).join(" · ")}</small>
+                      <strong>{featured.title}</strong>
+                      <em>by {featured.author}</em>
+                    </span>
+                    <span className="featured-arrow"><ArrowUpRight /></span>
+                  </span>
+                </button>
+              </div>
+            ))}
+            </div>
+          </div>
+          <button type="button" className="featured-nav featured-prev" aria-label="Previous featured world" onClick={() => moveFeatured(-1)}><ChevronLeft /></button>
+          <button type="button" className="featured-nav featured-next" aria-label="Next featured world" onClick={() => moveFeatured(1)}><ChevronRight /></button>
+          <div className="featured-dots" aria-label={`Featured world ${featuredIndex + 1} of ${featuredGames.length}`}>
+            {featuredGames.map((game, index) => (
+              <button
+                type="button"
+                className={index === featuredIndex ? "active" : ""}
+                key={gameKey(game)}
+                onClick={() => {
+                  setFeaturedPaused(true);
+                  setFeaturedIndex(index);
+                }}
+                aria-label={`Show ${game.title}`}
+                aria-current={index === featuredIndex ? "true" : undefined}
+              />
+            ))}
+          </div>
+        </div>
       </section>
 
       <section className="discovery-section">
@@ -202,7 +266,9 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
           <p>Big targets, less typing. Start with what sounds fun.</p>
         </div>
         <div className="category-rail">
-          {categories.map((item) => (
+          {categories.map((item) => {
+            const Icon = item.icon;
+            return (
             <button
               type="button"
               className={`category-pill ${category === item.label ? "active" : ""}`}
@@ -210,9 +276,10 @@ export default function CatalogApp({ games, total }: { games: Game[]; total: num
               onClick={() => pickCategory(item.label)}
               aria-pressed={category === item.label}
             >
-              <span>{item.icon}</span>{item.label}
+              <span className="category-icon" aria-hidden="true"><Icon /></span>{item.label}
             </button>
-          ))}
+            );
+          })}
         </div>
       </section>
 
